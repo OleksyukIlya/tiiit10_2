@@ -1,4 +1,4 @@
 ##Этот файл##
 ~~Нужен для выполнения~~
 _10 лабораторной работы_
-https://www.flaticon.com/ru/free-icon/github-logo_25231
+![GitHub Logo](free-icon-github-logo-25231.png)
